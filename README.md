@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm new here 👋
+- 👀 Just looking around
+- 💭 Still learning the ropes
+- 🧪 Experimenting with things
 
 <!--
 **gassayping/gassayping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
