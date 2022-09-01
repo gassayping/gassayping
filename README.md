@@ -1,10 +1,12 @@
-### Hi I'm new here 👋
-- 🙋‍♂️ He/Him
-- 👀 Just looking around
-- 💭 Still learning the ropes
-- 🧪 Experimenting with things
-- 💬 Discord: Dev_Gassayping#8851
-<!-- - 📧 Email me -->
+<h1> Hi I'm new here 👋 </h1>
+<ul>
+  <li> 🙋‍♂️ He/Him </li>
+  <li> 👀 Just looking around </li>
+  <li> 💭 Still learning the ropes </li>
+  <li> 🧪 Experimenting with things </li>
+  <li> 💬 Discord: Dev_Gassayping#8851 </li>
+  <!-- <li> 📧 Email me </li> -->
+</ul>
 
 <!-- gassayping/gassayping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
