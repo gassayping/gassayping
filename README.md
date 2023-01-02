@@ -3,8 +3,8 @@
   <p> 👀 Just looking around </p>
   <p> 💭 Still learning the ropes </p>
   <p> 🧪 Experimenting with things </p>
-  <p> 💬 Discord:  <a href="https://discord.com/users/849413565487382578">
-    <img src="https://img.shields.io/static/v1?label=&message=Dev_Gassayping%233380&color=black&logo=discord">
+  <p> 💬 Discord:  <a href="https://discord.com/users/1004899162543882271">
+    <img src="https://img.shields.io/static/v1?label=&message=Dev_Gassayping%238851&color=black&logo=discord">
 </a></p>
   <!-- <li> 📧 Email me </li> -->
 
