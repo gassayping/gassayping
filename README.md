@@ -4,7 +4,7 @@
   <p> 💭 Still learning the ropes </p>
   <p> 🧪 Experimenting with things </p>
   <p> 💬 Discord:  <a href="https://discord.com/users/1004899162543882271">
-    <img src="https://img.shields.io/static/v1?label=&message=Dev_Gassayping%238851&color=black&logo=discord">
+    <img src="https://img.shields.io/static/v1?label=&message=Dev_Gassayping%238851&color=black&logo=discord&style=for-the-badge">
 </a></p>
   <!-- <li> 📧 Email me </li> -->
 
