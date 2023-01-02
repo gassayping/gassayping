@@ -3,7 +3,9 @@
   <p> 👀 Just looking around </p>
   <p> 💭 Still learning the ropes </p>
   <p> 🧪 Experimenting with things </p>
-  <p> 💬 Discord: Dev_Gassayping#8851 </p>
+  <p> 💬 Discord:  <a href="https://discord.com/users/849413565487382578">
+    <img src="https://img.shields.io/static/v1?label=&message=Dev_Gassayping%233380&color=black&logo=discord">
+</a></p>
   <!-- <li> 📧 Email me </li> -->
 
 <!-- gassayping/gassayping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
